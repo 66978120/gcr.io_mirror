@@ -55,7 +55,7 @@ jobs:
                     validLabels=true
                   }
                 }
-                if(true){
+                if(validLabels){
                   continue
                 }
                 await  github.issues.createComment({
