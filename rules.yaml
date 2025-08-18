@@ -4,3 +4,4 @@
 "^quay.io":          "quay"
 "^ghcr.io":          "ghcr"
 "^docker.io":        "docker"
+"^nvcr.io":        "nvcr"
